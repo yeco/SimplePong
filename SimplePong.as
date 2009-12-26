@@ -82,13 +82,13 @@ package {
 
 
         /**
-             * Draws squares
-             * @private Draw
-             * @param {MovieClip} t Target MovieClip
-             * @param {Number} w Square width
-             * @param {Number} h Square height
-             * @return Null
-             */
+        * Draws squares
+        * @private Draw
+        * @param {MovieClip} t Target MovieClip
+        * @param {Number} w Square width
+        * @param {Number} h Square height
+        * @return Null
+        */
 
         private function draw(t, w, h)
         {
