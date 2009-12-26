@@ -1,7 +1,7 @@
 /**
 * SimplePong
 *
-* Quite simple pong game
+* Quite simple Brain Teaser pong game
 * 
 * @author Yëco
 * 
